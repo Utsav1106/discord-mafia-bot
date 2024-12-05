@@ -1,0 +1,22 @@
+export const mafiaMessages = [
+    "{username} was convinced they could defy gravity by flapping their arms like wings. The mafia decided to put their theory to the test. {username}'s life came crashing down as they plummeted to the ground.",
+    "Rumors were spreading that {username} had discovered the secret to teleportation. The mafia saw this as a threat and took matters into their own hands. {username} vanished without a trace, leaving behind only confusion and unanswered questions.",
+    "{username} had been bragging about their unbeatable ninja skills. The mafia saw it as a challenge and decided to eliminate this self-proclaimed ninja. {username}'s life ended silently, with no trace of the skilled warrior they claimed to be.",
+    "{username} thought they could outsmart the mafia by hiding in plain sight. Little did they know, the mafia had their eyes on {username} the whole time. Their life was snuffed out in an instant.",
+    "Word got out that {username} had discovered the secret location of the mafia's hideout. The mafia couldn't let such information leak, so they took swift action, silencing {username} forever.",
+    "The mafia caught wind of {username}'s ability to read minds. Worried about their own secrets being exposed, they silenced {username} permanently, leaving no trace of their psychic talents.",
+    "Rumors were circulating that {username} had a secret stash of diamonds. The mafia saw an opportunity and decided to claim those riches for themselves, leaving {username} lifeless and empty-handed.",
+    "{username} had been taunting the mafia, claiming they were untouchable. The mafia took it as a personal challenge and proved {username} wrong, ending their life and silencing their arrogance.",
+    "The mafia couldn't tolerate {username}'s incessant singing. They decided to put an end to the off-key melodies by eliminating {username} once and for all.",
+    "Word got out that {username} was planning to expose the identities of the mafia members. The mafia swiftly took action, ensuring {username}'s silence forever.",
+    "{username} stumbled upon a mysterious briefcase containing evidence against the mafia. Realizing the danger they posed, the mafia took {username} out, ensuring their secrets remained hidden.",
+    "Rumors were spreading that {username} possessed the power of invincibility. The mafia decided to test this theory and put an end to {username}'s supposed immortality.",
+    "{username} had been boasting about their superior hacking skills. The mafia saw them as a threat to their digital operations and decided to permanently disconnect {username}.",
+    "The mafia discovered that {username} had been gathering evidence against them. In an effort to protect their criminal empire, they silenced {username} and destroyed all traces of the evidence.",
+    "{username} claimed to have the ability to see through people's lies. The mafia couldn't take the risk of being exposed, so they silenced {username} and ensured their secrets remained hidden.",
+    "Word got out that {username} had the power to control minds. Fearing the loss of their autonomy, the mafia made sure {username}'s mind control came to a permanent end.",
+    "The mafia intercepted a message indicating that {username} was onto their plans. They quickly eliminated {username}, leaving no room for interference.",
+    "Rumors were circulating that {username} possessed a rare artifact with the power to expose the mafia. The mafia wasn't going to let that happen, so they put an end to {username} and secured the artifact.",
+    "{username} had been spreading rumors about the mafia's secret operations. The mafia couldn't risk their reputation being tarnished, so they silenced {username} permanently.",
+    "The mafia discovered that {username} had been secretly communicating with law enforcement. They swiftly took action, eliminating {username} and cutting off any ties to the authorities."
+]

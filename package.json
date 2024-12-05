@@ -1,9 +1,37 @@
 {
-  "type": "module",
+  "name": "discord-mafia-bot",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc && tsc-alias",
+    "start": "cross-env NODE_ENV=production node dist/index.js",
+    "dev": "tsx watch --clear-screen=false src/index.ts | pino-pretty"
+  },
   "dependencies": {
     "chalk": "^4.1.1",
     "discord.js": "^14.11.0",
+    "dotenv": "^17.2.1",
     "moment": "^2.29.4",
-    "mongoose": "^7.3.0"
-  }
+    "mongoose": "^7.3.0",
+    "tsx": "^4.20.3",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^10.0.0",
+    "pino-pretty": "^13.1.1",
+    "tsc-alias": "^1.8.16",
+    "typescript": "^5.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utsav1106/discord-mafia-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Utsav1106/discord-mafia-bot/issues"
+  },
+  "homepage": "https://github.com/Utsav1106/discord-mafia-bot#readme"
 }
